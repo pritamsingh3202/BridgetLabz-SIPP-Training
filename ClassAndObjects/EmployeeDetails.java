@@ -4,7 +4,7 @@ public class EmployeeDetails {
     int id;
     double salary;
 
-    // Constructor to initialize employee details
+    // Constructor 
     public EmployeeDetails(String name, int id, double salary) {
         this.name = name;
         this.id = id;
